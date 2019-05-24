@@ -3,3 +3,5 @@
 Vind je coderen leuk?
 
 Antwoord graag in Bold, italic en groen.
+
+Ik *vind* **coderen** leuk!
