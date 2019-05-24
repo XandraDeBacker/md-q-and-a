@@ -12,3 +12,6 @@ Doe je aan sport ? (doorstreept)
 
 Wat is je lievelingskleur? (Italic) 
 
+*blauw*
+
+wat is je lievelings getal? (onderlijn)
